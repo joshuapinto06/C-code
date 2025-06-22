@@ -6,7 +6,7 @@ int main()
     float num1,num2;
     int choice;
     char name[50];
-    printf("Enter your first name bugger\n");
+    printf("Enter your first name.\n");
     scanf("%s",name);
     printf("Hello there %s!\n",name);
     printf("Enter the option bro\n1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n");
